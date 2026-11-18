@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.out/
+out/
+*.out
+.env
+.DS_Store
